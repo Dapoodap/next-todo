@@ -17,3 +17,7 @@ form .btn{
   background-color: #1E6F9F;
   color: #F2F2F2;
 }
+.cek{
+  border-radius: 100%;
+  cursor: pointer;
+}
